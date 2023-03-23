@@ -1,0 +1,17 @@
+.odd-number:hover {
+  font-size: 30px;
+}
+
+#button1:hover {
+  font-weight: bold;
+}
+#button3:hover {
+  background-color: green;
+}
+#button5:focus {
+  background-color: yellow;
+}
+
+.even-number:disabled {
+  background-color: gray;
+}
