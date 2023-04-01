@@ -1,0 +1,14 @@
+.square {
+  height: 80px;
+  width: 80px;
+  background-color: darkolivegreen;
+  border-right: red solid 2px;
+  border-left: blue solid 2px;
+  border-top: yellow solid 2px;
+  border-bottom: yellow solid 2px;
+}
+h3 {
+  font-size: 16;
+  margin: 20px;
+  padding: 10px;
+}
